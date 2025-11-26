@@ -2,7 +2,7 @@
 
 A modern, full-featured category management application built with React, TypeScript, and Vite. This application provides a comprehensive solution for managing categories with authentication, data tables, and a beautiful UI.
 
-![Category Management](./dist/category.png)
+![Category Management](./public/category.png)
 
 ## 🚀 Features
 

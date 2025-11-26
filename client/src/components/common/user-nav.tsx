@@ -3,13 +3,12 @@ import { Button } from "@/components/custom/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
-  DropdownMenuGroup,
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Link, useNavigate } from "react-router";
+import { useNavigate } from "react-router";
 import { useState } from "react";
 import { getNameFromToken, removeToken } from "@/lib/utils";
 import { LogOut } from "lucide-react";
