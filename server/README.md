@@ -67,7 +67,7 @@ Run the application in development mode with hot-reloading (uses `ts-node`):
 npm run dev
 ```
 
-The server will start at `http://localhost:8080`.
+The server will start at `http://localhost:3002`.
 
 ### Build & Run (Compiled)
 
@@ -111,7 +111,7 @@ src/
 ## 📝 API Documentation
 
 The API endpoints are prefixed with `/api`.
-Example: `http://localhost:8080/api/category`
+Example: `http://localhost:3002/api/category`
 
 ## 🤝 Contributing
 
