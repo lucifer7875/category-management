@@ -50,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
     Create a `.env` file in the root directory and configure the following variables:
 
     ```env
-    PORT=8080
+    PORT=3002
     HOST_SERVER=localhost
     SESSION_SECRET=your_secure_session_secret
     MONGODB_URI=mongodb://localhost:27017/category-management
