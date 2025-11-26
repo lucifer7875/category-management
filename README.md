@@ -56,7 +56,7 @@ npm install --legacy-peer-deps
 Create a `.env` file in the `client` directory (if not exists):
 
 ```env
-VITE_API_BASE_URL=http://localhost:8080/api
+VITE_API_BASE_URL=http://localhost:3002/api
 ```
 
 > **Note:** Ensure the `VITE_API_BASE_URL` port matches your server's `PORT`.
