@@ -42,7 +42,7 @@ Start the server:
 npm run dev
 ```
 
-The server will run on `http://localhost:8080` (or the port you specified).
+The server will run on `http://localhost:3002` (or the port you specified).
 
 ### 2. Setup Client
 
