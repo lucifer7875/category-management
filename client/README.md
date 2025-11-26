@@ -173,7 +173,7 @@ Comprehensive category management features:
 - Search and filter capabilities
 - Pagination support
 
-![Categories](./dist/category-small.png)
+![Categories](./public/category-small.png)
 
 ## 🔌 API Integration
 
